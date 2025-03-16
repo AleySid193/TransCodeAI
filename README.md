@@ -44,7 +44,7 @@ pip install -r requirements.txt
 
 3. Run the application:
 ```bash
-streamlit run converter.py
+streamlit run TransCodeAI.py
 ```
 
 ## 🎯 Usage
