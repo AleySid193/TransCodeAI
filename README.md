@@ -19,7 +19,7 @@ A powerful AI-powered tool that seamlessly converts between Pseudo Code and C++ 
 
 ## 🚀 Demo
 
-Access the live demo: [TransCodeAI Demo](https://transcodai.streamlit.app)
+Access the live demo: [TransCodeAI Demo]([https://transcodai.streamlit.app](https://transcodeai.streamlit.app/))
 
 ## 📋 Requirements
 
